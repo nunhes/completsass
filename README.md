@@ -1,2 +1,2 @@
-# completesass
- Tutorial advanced Sass
+# completsass
+ Pacticas de Sass/SCSS
