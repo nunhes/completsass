@@ -1,2 +1,2 @@
 # completsass
- Pacticas de Sass/SCSS
+ Practicas de Sass/SCSS
